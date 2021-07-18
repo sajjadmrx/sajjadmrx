@@ -19,6 +19,6 @@ I'm sajjad, a 19 years old web developer from iran.
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 
 ## Contact
-- [@sajjadmrx](https://twitter.com/martonlederer) on Twitter
-- [@sajjadmrx](https://twitter.com/instagram) on Instagram
-- [sajjadmrx#2010](./) on Discord
+- [@sajjadmrx](https://twitter.com/sajjadmrx) on Twitter
+- [@sajjadmrx](https://t.me/sajjadmrx) on telegram
+- [sajjadmrx#2010](https://discordapp.com/channels/@me/784065806395768863/) on Discord
