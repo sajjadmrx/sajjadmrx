@@ -1,7 +1,7 @@
 
 
 ## Hey! 👋
-I'm sajjad, a 19 years old web developer from iran.
+I'm sajjad, a 19 years old web & bot developer from iran
 
 - 🧭 Founder at [Noise Bot](https://noisebot.net/)  🤖
 
