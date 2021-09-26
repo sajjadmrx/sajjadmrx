@@ -1,9 +1,13 @@
 
 
+
 ## Hey! 👋
 I'm sajjad, a 19 years old web & bot developer from iran
 
-- 🧭 Founder at [Noise Bot](https://noisebot.net/)  🤖
+- 🧭 Founder & Developer at [Noise Bot](https://noisebot.net/)  🤖
+- ⚡ I'm a Backend Developer from iran
+- 🔭 I’m currently working on Hello Chat **And** [Noise Bot](https://noisebot.net/)  Discord Bot
+- 💻 My favorite languages are JavaScript 
 
 <a href="https://github.com/sajjadmrx">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadmrx&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a> 
