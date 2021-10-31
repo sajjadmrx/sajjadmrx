@@ -19,7 +19,7 @@ I'm sajjad, a 19 years old web & bot developer from iran
 
 
 <details>
-<summary>:bar_chart: Highlight Projects </summary>
+<summary>🛠 Highlight Projects </summary>
 
 <a href="https://github.com/sajjadmrx/kalamat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sajjadmrx&repo=kalamat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="kalamt project" />
@@ -28,11 +28,23 @@ I'm sajjad, a 19 years old web & bot developer from iran
 </details>
 
 <details>
-<summary>:bar_chart: Packages</summary>
+<summary>📦 Packages</summary>
 
-<a href="https://github.com/sajjadmrx/cryptoLand">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sajjadmrx&repo=cryptoLand&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="cryptoLand package" />
-</a>
+ - [cryptoLand](https://github.com/sajjadmrx/cryptoLand)
+ - [discord.js slash](https://github.com/sajjadmrx/discord.js-slah)
+ - [rage-mp](https://github.com/sajjadmrx/rage-mp)
+ - [fivem-api](https://github.com/sajjadmrx/FiveM-Api)
+ - [telegraf-xp](https://github.com/sajjadmrx/telegraf-xp)
+
+</details>
+
+<details>
+<summary>👨‍🔬 Practice</summary>
+
+ - [typescript](https://github.com/sajjadmrx/typescript)
+ - [express-jwt](https://github.com/sajjadmrx/express-jwt-auth)
+ - [chatrom](https://github.com/sajjadmrx/chatrom)
+ - [telegraf-xp](https://github.com/sajjadmrx/telegraf-xp)
 
 </details>
 
