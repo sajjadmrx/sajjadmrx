@@ -13,7 +13,12 @@ I'm sajjad, a 19 years old web & bot developer from iran
 <a href="https://github.com/sajjadmrx">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadmrx&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a> 
 
-![Instagram](https://img.shields.io/badge/sajjadmrx-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+## Contact
+- [@sajjadmrx](https://twitter.com/sajjadmrx) on Twitter
+- [@sajjadmrx](https://t.me/sajjadmrx) on telegram
+- [sajjadmrx#2010](https://discordapp.com/channels/@me/784065806395768863/) on Discord
+- [sajjadmrx](https://instagram.com/sajjadmrx) on Instagram
+
 ## Skills
 
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"/><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
@@ -54,10 +59,3 @@ I'm sajjad, a 19 years old web & bot developer from iran
 
 
 </details>
-
-
-
-## Contact
-- [@sajjadmrx](https://twitter.com/sajjadmrx) on Twitter
-- [@sajjadmrx](https://t.me/sajjadmrx) on telegram
-- [sajjadmrx#2010](https://discordapp.com/channels/@me/784065806395768863/) on Discord
