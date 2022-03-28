@@ -5,7 +5,6 @@
 ## Hey! 👋
 I'm sajjad, a 19 years old web & bot developer from iran
 
-- 🧭 Founder & Developer at [Noise Bot](https://noisebot.net/)  🤖
 - ⚡ I'm a Backend Developer from iran
 - 🔭 I’m currently learning Nestjs
 - 💻 My favorite languages are JavaScript 
