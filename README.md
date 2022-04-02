@@ -3,10 +3,12 @@
 
 
 ## Hey! 👋
-I'm sajjad, a 19 years old web & bot developer from iran
+
+I'm sajjad, a 19 years old 
+
 
 - ⚡ I'm a Backend Developer from iran
-- 🔭 I’m currently learning Nestjs
+- 🔭 I’m currently learning Nestjs && React
 - 💻 My favorite languages are JavaScript 
 
 <a href="https://github.com/sajjadmrx">
@@ -17,10 +19,11 @@ I'm sajjad, a 19 years old web & bot developer from iran
 - [@sajjadmrx](https://t.me/sajjadmrx) on telegram
 - [sajjadmrx#2010](https://discordapp.com/channels/@me/784065806395768863/) on Discord
 - [sajjadmrx](https://instagram.com/sajjadmrx) on Instagram
+> And Other Social Media 😎
 
 ## Skills
 
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"/><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 <details>
