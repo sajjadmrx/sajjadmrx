@@ -8,7 +8,7 @@ I'm sajjad
 
 
 - ⚡ I'm a Backend Developer from iran
-- 🔭 I’m currently learning Nestjs && React
+- 🔭 I’m currently learning Docker & Testing
 - 💻 My favorite languages are JavaScript 
 
 <a href="https://github.com/sajjadmrx">
