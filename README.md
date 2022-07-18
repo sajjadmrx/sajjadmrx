@@ -4,7 +4,7 @@
 
 ## Hey! 👋
 
-I'm sajjad, a 19 years old 
+I'm sajjad
 
 
 - ⚡ I'm a Backend Developer from iran
