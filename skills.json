@@ -1,0 +1,68 @@
+[
+	{
+		"id": 1,
+		"name": "Javascript",
+		"icon": "devicon-javascript-plain",
+		"learning": false
+	},
+	{
+		"id": 2,
+		"name": "Typescript",
+		"icon": "devicon-typescript-plain",
+		"learning": false
+	},
+	{
+		"id": 3,
+		"name": "NodeJs",
+		"icon": "devicon-nodejs-plain",
+		"learning": false
+	},
+	{
+		"id": 4,
+		"name": "ExpressJs",
+		"icon": "devicon-express-original",
+		"learning": false
+	},
+	{
+		"id": 5,
+		"name": "NestJs",
+		"icon": "devicon-nestjs-plain",
+		"learning": false
+	},
+	{
+		"id": 6,
+		"name": "Socket.io",
+		"icon": "devicon-socketio-original",
+		"learning": false
+	},
+	{
+		"id": 7,
+		"name": "MongoDB",
+		"icon": "devicon-mongodb-plain",
+		"learning": false
+	},
+	{
+		"id": 8,
+		"name": "Redis",
+		"icon": "devicon-redis-plain",
+		"learning": false
+	},
+	{
+		"id": 9,
+		"name": "ORM & ODM",
+		"icon": "devicon-vuetify-line",
+		"learning": false
+	},
+	{
+		"id": 10,
+		"name": "Git",
+		"icon": "devicon-git-plain",
+		"learning": false
+	},
+	{
+		"id": 11,
+		"name": "Docker & Docker-Compose",
+		"icon": "devicon-docker-plain",
+		"learning": false
+	}
+]
