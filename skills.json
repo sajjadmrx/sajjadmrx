@@ -12,63 +12,69 @@
 		"learning": false
 	},
 	{
-		"id": 3,
+		"id":3,
+		"name":"GoLang",
+		"icon":"devicon-go-original-wordmark",
+		"learning": true
+	},
+	{
+		"id": 4,
 		"name": "NodeJs",
 		"icon": "devicon-nodejs-plain",
 		"learning": false
 	},
 	{
-		"id": 4,
+		"id": 5,
 		"name": "ExpressJs",
 		"icon": "devicon-express-original",
 		"learning": false
 	},
 	{
-		"id": 5,
+		"id": 6,
 		"name": "NestJs",
 		"icon": "devicon-nestjs-plain",
 		"learning": false
 	},
 	{
-		"id": 6,
+		"id": 7,
 		"name": "Socket.io",
 		"icon": "devicon-socketio-original",
 		"learning": false
 	},
 	{
-		"id": 7,
+		"id": 8,
 		"name": "MongoDB",
 		"icon": "devicon-mongodb-plain",
 		"learning": false
 	},
 	{
-		"id": 8,
+		"id":9,
+		"name":"MySQL",
+		"icon":"devicon-mysql-plain-wordmark",
+		"learning":false
+	},
+	{
+		"id": 10,
 		"name": "Redis",
 		"icon": "devicon-redis-plain",
 		"learning": false
 	},
 	{
-		"id": 9,
+		"id": 11,
 		"name": "ORM & ODM",
 		"icon": "devicon-vuetify-line",
 		"learning": false
 	},
 	{
-		"id": 10,
+		"id": 12,
 		"name": "Git",
 		"icon": "devicon-git-plain",
 		"learning": false
 	},
 	{
-		"id": 11,
+		"id": 13,
 		"name": "Docker & Docker-Compose",
 		"icon": "devicon-docker-plain",
 		"learning": false
 	},
-	{
-		"id":12,
-		"name":"GoLang",
-		"icon":"devicon-go-original-wordmark",
-		"learning": true
-	}
 ]
