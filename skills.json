@@ -64,5 +64,11 @@
 		"name": "Docker & Docker-Compose",
 		"icon": "devicon-docker-plain",
 		"learning": false
+	},
+	{
+		"id":12,
+		"name":"GoLang",
+		"icon":"devicon-go-original-wordmark",
+		"learning": true
 	}
 ]
