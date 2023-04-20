@@ -1,4 +1,7 @@
-<img  align="center" src="https://media.discordapp.net/attachments/1090906746136055838/1098543076412239922/66ec4713b4f9b12c13e7ad0f9369d7bd.png?width=1002&height=352">
+<img  align="center" src="./my_banner.jpg">
+
+
+
 # Welcome 👋
 
 <img width="50%" align="right" src="https://i.imgur.com/kWJpUr0.giff">
