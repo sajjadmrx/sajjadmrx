@@ -61,8 +61,8 @@
 	},
 	{
 		"id": 11,
-		"name": "ORM & ODM",
-		"icon": "devicon-vuetify-line",
+		"name": "Testing",
+		"icon": "devicon-jest-plain",
 		"learning": false
 	},
 	{
@@ -76,5 +76,11 @@
 		"name": "Docker & Docker-Compose",
 		"icon": "devicon-docker-plain",
 		"learning": false
+	},
+	{
+		"id":14,
+		"name":"ORMS",
+		"icon":"devicon-vuetify-line",
+		"learning":false
 	}
 ]
