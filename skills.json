@@ -79,7 +79,7 @@
 	},
 	{
 		"id":14,
-		"name":"ORMS",
+		"name":"ORM/ODM",
 		"icon":"devicon-vuetify-line",
 		"learning":false
 	}
