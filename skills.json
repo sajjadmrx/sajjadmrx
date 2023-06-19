@@ -92,7 +92,7 @@
 	{
 		"id":16,
 		"name":"Lua",
-		"icon":"devicon-lua-plain-wordmark colored",
+		"icon":"devicon-lua-plain-wordmark",
 		"learning":false
 	}
 ]
