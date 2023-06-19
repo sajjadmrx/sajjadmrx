@@ -82,5 +82,17 @@
 		"name":"ORM/ODM",
 		"icon":"devicon-vuetify-line",
 		"learning":false
+	},
+	{
+		"id":15,
+		"name":"gRPC",
+		"icon":"devicon-confluence-original",
+		"learning": true
+	},
+	{
+		"id":16,
+		"name":"Lua",
+		"icon":"devicon-lua-plain-wordmark colored",
+		"learning":false
 	}
 ]
